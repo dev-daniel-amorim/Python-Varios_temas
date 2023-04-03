@@ -11,9 +11,6 @@ Nesse repositorio você encontrará tutoriais vídeo aulas abordando diversos te
 
 [Playlist Aulas extras (Vários temas): Clique e veja minha playlista variada no youtube.](https://www.youtube.com/playlist?list=PLxm8nHbKxiP0zMz7Y8FxGIg8J7xGUzJs9)
 
-## Noteboos e códigos das aulas:
-
-
 
 <br>
 <hr>
